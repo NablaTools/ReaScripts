@@ -15,4 +15,4 @@ else
 	scriptPath = reaper.GetResourcePath().."/Scripts/Nabla Tools/Scythe for Nabla/library/"
 end
 
-dofile(script_path .. "Nabla Looper Manual Triggers"..".dat")
+dofile(script_path .. "Nabla Looper Manual Trigger Actions"..".dat")
