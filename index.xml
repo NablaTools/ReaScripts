@@ -6,13 +6,13 @@
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
       <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
-        <source main="true" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
-        <source file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
-        <source file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
-        <source file="Nabla Looper Arranged Items (Toggle Record).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).lua</source>
-        <source file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
-        <source file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Delete).lua</source>
-        <source file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Show).lua</source>
+        <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
+        <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
+        <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
+        <source main="main" file="Nabla Looper Arranged Items (Toggle Record).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).lua</source>
+        <source main="main" file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
+        <source main="main" file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Delete).lua</source>
+        <source main="main" file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Show).lua</source>
         <source file="Nabla Looper Arranged Items (Clear).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Items%20(Clear).dat</source>
         <source file="Nabla Looper Arranged Items (Rename).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Items%20(Rename).dat</source>
         <source file="Nabla Looper Arranged Items (Toggle Record).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).dat</source>
@@ -30,13 +30,13 @@
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
       <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
-        <source main="true" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
-        <source file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
-        <source file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
-        <source file="Nabla Looper Arranged Items (Toggle Record).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).lua</source>
-        <source file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
-        <source file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Delete).lua</source>
-        <source file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Show).lua</source>
+        <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
+        <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
+        <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
+        <source main="main" file="Nabla Looper Arranged Items (Toggle Record).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).lua</source>
+        <source main="main" file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
+        <source main="main" file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Delete).lua</source>
+        <source main="main" file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Show).lua</source>
         <source file="Nabla Looper Arranged Items (Clear).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Items%20(Clear).dat</source>
         <source file="Nabla Looper Arranged Items (Rename).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Items%20(Rename).dat</source>
         <source file="Nabla Looper Arranged Items (Toggle Record).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).dat</source>
@@ -54,11 +54,11 @@
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
       <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
-        <source main="true" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
-        <source file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
-        <source file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).lua</source>
-        <source file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
-        <source file="Nabla Looper Manual Trigger Actions.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Trigger%20Actions.lua</source>
+        <source main="main" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
+        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
+        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).lua</source>
+        <source main="main" file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
+        <source main="main" file="Nabla Looper Manual Trigger Actions.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Trigger%20Actions.lua</source>
         <source file="Nabla Looper Manual Keyboard Shortcut (Action List).dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).dat</source>
         <source file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).dat</source>
         <source file="Nabla Looper Manual Mode.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Mode.dat</source>
@@ -74,10 +74,10 @@
       </metadata>
       <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
         <source main="true" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
-        <source file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
-        <source file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).lua</source>
-        <source file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
-        <source file="Nabla Looper Manual Trigger Actions.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Trigger%20Actions.lua</source>
+        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
+        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).lua</source>
+        <source main="main" file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
+        <source main="main" file="Nabla Looper Manual Trigger Actions.lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Trigger%20Actions.lua</source>
         <source file="Nabla Looper Manual Keyboard Shortcut (Action List).dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/NLMx32/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).dat</source>
         <source file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/NLMx32/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).dat</source>
         <source file="Nabla Looper Manual Mode.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Manual%20Mode/NLMx32/Nabla%20Looper%20Manual%20Mode.dat</source>
