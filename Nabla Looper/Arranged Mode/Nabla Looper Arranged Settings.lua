@@ -24,7 +24,6 @@ if not libPathNabla or libPathNabla == "" then
   libPathNabla = scriptPath
 
 end
-
 dofile(script_path .. "Nabla Looper Arranged Settings"..".dat")
 
 
