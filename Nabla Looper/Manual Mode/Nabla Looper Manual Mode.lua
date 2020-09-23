@@ -7,15 +7,15 @@ else
 	scriptPath = reaper.GetResourcePath().."/Scripts/Nabla Tools/Scythe for Nabla/library/"
 end
 
-local libPathNabla = reaper.GetExtState("Scythe v3 for Nabla", "libPathNabla")
+-- local libPathNabla = reaper.GetExtState("Scythe v3 for Nabla", "libPathNabla")
 
-if not libPathNabla or libPathNabla == "" then
+-- if not libPathNabla or libPathNabla == "" then
 
-  reaper.SetExtState("Scythe v3 for Nabla", "libPathNabla", scriptPath, true)
+--   reaper.SetExtState("Scythe v3 for Nabla", "libPathNabla", scriptPath, true)
 
-  libPathNabla = scriptPath
+--   libPathNabla = scriptPath
 
-end
+-- end
 dofile(script_path .. "Nabla Looper Manual Mode"..".dat")
 
 
