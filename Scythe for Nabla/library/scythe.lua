@@ -82,7 +82,7 @@ end
 
 Scythe.version = (function()
 
-  local file = Scythe.libPathNabla .. "/scythe.lua"
+  local file = Scythe.libPathNabla .. "scythe.lua"
   if not reaper.ReaPack_GetOwner then
     return "(" .. "ReaPack not found" .. ")"
   else
