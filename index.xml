@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Nabla Tools" commit="4408425f3ad7a8ff2b9b6d69c14212b4a177314c">
+  <category name="Nabla Looper/Arranged Mode">
+    <reapack name="Nabla Looper Arranged Mode x64.lua" type="script">
+      <metadata>
+        <link rel="website">https://www.nablatools.com</link>
+      </metadata>
+      <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
+        <source main="true">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
+        <source file="Nabla Looper Arranged Mode.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Mode.dat</source>
+        <source file="Nabla Looper Arranged Empty Items.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Empty%20Items.lua</source>
+        <source file="Nabla Looper Arranged Empty Items.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Empty%20Items.dat</source>
+        <source file="Nabla Looper Arranged Rename Items.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Rename%20Items.lua</source>
+        <source file="Nabla Looper Arranged Rename Items.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Rename%20Items.dat</source>
+        <source file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
+        <source file="Nabla Looper Arranged Settings.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Settings.dat</source>
+        <source file="Nabla Looper Arranged Toggle Record Items.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Toggle%20Record%20Items.lua</source>
+        <source file="Nabla Looper Arranged Toggle Record Items.dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Toggle%20Record%20Items.dat</source>
+        <source file="Nabla Looper Arranged Takes (Show).dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Mode.dat</source>
+        <source file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Mode.dat</source>
+        <source file="Nabla Looper Arranged Takes (Delete).dat">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Mode.dat</source>
+        <source file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/blob/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Mode.dat</source>
+
+        <source file="clean_audio.wav">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/clean_audio.wav</source>
+      </version>
+    </reapack>    
+  </category>
+  <category name="Nabla Looper/Arranged Mode">
+    <reapack name="Nabla Looper Arranged Mode x32.lua" type="script">
+      <metadata>
+        <link rel="website">https://www.nablatools.com</link>
+      </metadata>
+      <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
+        <source main="true">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
+        <source file="Nabla Looper Arranged Mode.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.dat</source>
+        <source file="Nabla Looper Arranged Empty Items.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Empty%20Items.lua</source>
+        <source file="Nabla Looper Arranged Empty Items.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Empty%20Items.dat</source>
+        <source file="Nabla Looper Arranged Rename Items.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Rename%20Items.lua</source>
+        <source file="Nabla Looper Arranged Rename Items.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Rename%20Items.dat</source>
+        <source file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
+        <source file="Nabla Looper Arranged Settings.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.dat</source>
+        <source file="Nabla Looper Arranged Toggle Record Items.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Toggle%20Record%20Items.lua</source>
+        <source file="Nabla Looper Arranged Toggle Record Items.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Toggle%20Record%20Items.dat</source>
+        <source file="clean_audio.wav">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/clean_audio.wav</source>
+      </version>
+    </reapack>    
+  </category>
+  <category name="Nabla Looper/Manual Mode">
+    <reapack name="Nabla Looper Manual Mode.lua" type="script">
+      <metadata>
+        <link rel="website">https://www.nablatools.com</link>
+      </metadata>
+      <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
+        <source main="true">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
+        <source file="Nabla Looper Manual Mode.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.dat</source>
+        <source file="Nabla Looper Manual Set Shortcut.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Set%20Shortcut.lua</source>
+        <source file="Nabla Looper Manual Set Shortcut.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Set%20Shortcut.dat</source>
+        <source file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
+        <source file="Nabla Looper Manual Settings.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.dat</source>
+        <source file="Nabla Looper Manual Shortcut.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Shortcut.lua</source>
+        <source file="Nabla Looper Manual Shortcut.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Shortcut.dat</source>
+        <source file="Nabla Looper Manual Start Stop Remove Recording.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Start%20Stop%20Remove%20Recording.lua</source>
+        <source file="Nabla Looper Manual Start Stop Remove Recording.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Start%20Stop%20Remove%20Recording.dat</source>
+      </version>
+    </reapack>
+  </category>
+      <reapack name="Lokasenna_Scythe library v3 for NablaTools.lua" type="script" desc="Scythe library v3 for NablaTools">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Provides a framework allowing Lua scripts to use a graphical interface, since Reaper has no ability to do so natively, as well as standalone modules to simplify many repetitive or difficult tasks.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=177772">Forum Thread</link>
+        <link rel="website" href="http://jalovatt.github.io/scythe">Scythe Website</link>
+        <link rel="donation">https://paypal.me/Lokasenna</link>
+      </metadata>
+
+      <version name="3.0.0" author="Lokasenna" time="2020-02-09T20:53:02Z">
+
+        <changelog><![CDATA[Minor updates to documentation, dev options, and version checking]]></changelog>
+
+        <source main="main" file="../Development/Scythe library v3/library/Scythe_Set v3 library path.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/Scythe_Set%20v3%20library%20path.lua</source>
+        
+        <source file="../Development/Scythe library v3/library/gui/config.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/config.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/core.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/core.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/element.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/element.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Button.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Button.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Checklist.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Checklist.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/ColorPicker.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/ColorPicker.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Frame.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Frame.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Knob.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Knob.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Label.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Label.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Listbox.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Listbox.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Menubar.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Menubar.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Menubox.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Menubox.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Radio.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Radio.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Slider.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Slider.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Tabs.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Tabs.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/TextEditor.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/TextEditor.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/Textbox.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/Textbox.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/shared/option.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/shared/option.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/elements/shared/text.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/elements/shared/text.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/layer.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/layer.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/theme.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/theme.lua</source>
+        <source file="../Development/Scythe library v3/library/gui/window.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/window.lua</source>
+        <source file="../Development/Scythe library v3/library/public/buffer.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/buffer.lua</source>
+        <source file="../Development/Scythe library v3/library/public/color.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/color.lua</source>
+        <source file="../Development/Scythe library v3/library/public/const.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/const.lua</source>
+        <source file="../Development/Scythe library v3/library/public/error.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/error.lua</source>
+        <source file="../Development/Scythe library v3/library/public/file.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/file.lua</source>
+        <source file="../Development/Scythe library v3/library/public/font.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/font.lua</source>
+        <source file="../Development/Scythe library v3/library/public/gfx.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/gfx.lua</source>
+        <source file="../Development/Scythe library v3/library/public/image.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/image.lua</source>
+        <source file="../Development/Scythe library v3/library/public/math.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/math.lua</source>
+        <source file="../Development/Scythe library v3/library/public/menu.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/menu.lua</source>
+        <source file="../Development/Scythe library v3/library/public/message.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/message.lua</source>
+        <source file="../Development/Scythe library v3/library/public/sprite.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/sprite.lua</source>
+        <source file="../Development/Scythe library v3/library/public/string.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/string.lua</source>
+        <source file="../Development/Scythe library v3/library/public/table.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/table.lua</source>
+        <source file="../Development/Scythe library v3/library/public/text.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/public/text.lua</source>
+        <source file="../Development/Scythe library v3/library/scythe.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/scythe.lua</source>
+      </version>
+</index>
