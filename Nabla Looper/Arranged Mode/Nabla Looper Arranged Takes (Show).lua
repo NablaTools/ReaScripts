@@ -1,18 +1,11 @@
 --====================================================================== 
 --[[ 
-* ReaScript Name: Nabla Looper Arranged
-* Version: 0.1.3
+* ReaScript Name: Nabla Looper Arranged Takes (Show)
+* Version: 0.2.0
 * Author: Esteban Morales
-* Author URI: http://forum.cockos.com/member.php?u=105939 
+* Author URI: http://forum.cockos.com/member.php?u=133640 
 --]] 
 --====================================================================== 
 local info   = debug.getinfo(1,'S');
 script_path  = info.source:match[[^@?(.*[\/])[^\/]-$]]
-
-if reaper.GetOS() == "Win32" or reaper.GetOS() == "Win64" then
-	scriptPath = reaper.GetResourcePath().."\\Scripts\\Nabla Tools\\Scythe for Nabla\\library\\"
-else
-	scriptPath = reaper.GetResourcePath().."/Scripts/Nabla Tools/Scythe for Nabla/library/"
-end
-
-dofile(script_path .. "Nabla Looper Arranged Takes (Show)"..".dat")
+dofile(script_path .. "Nabla Looper Arranged Takes (Show).dat")
