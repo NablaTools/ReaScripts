@@ -102,7 +102,7 @@
       </metadata>
       <version name="3.0.0" author="Lokasenna" time="2020-02-09T20:53:02Z">
         <changelog><![CDATA[Minor updates to documentation, dev options, and version checking]]></changelog>
-        <source main="main" file="library/Scythe_Set v3 library path.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/Scythe_Set%20v3%20library%20path.lua</source>
+        <source main="main" file="library/Scythe_Nabla library path.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/Scythe_Nabla%20library%20path.lua</source>
         <source file="library/gui/config.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/config.lua</source>
         <source file="library/gui/core.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/core.lua</source>
         <source file="library/gui/element.lua">https://github.com/NablaTools/ReaScripts/raw/master/Scythe%20for%20Nabla/library/gui/element.lua</source>
