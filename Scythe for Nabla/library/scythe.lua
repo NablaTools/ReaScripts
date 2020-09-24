@@ -17,10 +17,9 @@ Scythe.args = args and args[1] or {}
 
 Scythe.libPathNabla = reaper.GetExtState("Scythe v3 for Nabla", "libPathNabla")
 if not Scythe.libPathNabla or Scythe.libPathNabla == "" then
-  --local info = debug.getinfo(1,'S')
-  --local scriptPath = info.source:match[[^@?(.*[\\/])[^\\/]-$]]
-  resourcepath=reaper.GetResourcePath()
-  scriptPath=resourcepath.."/Scripts/Nabla Tools/Scythe for Nabla/library/"
+  local info = debug.getinfo(1,'S')
+  local scriptPath = info.source:match[[^@?(.*[\\/])[^\\/]-$]]
+  
   reaper.SetExtState("Scythe v3 for Nabla", "libPathNabla", scriptPath, true)
   Scythe.libPathNabla = scriptPath
     --reaper.MB("Couldn't find the Scythe library. Please run 'Set Scythe library path' in your Action List.", "Whoops!", 0) -- luacheck: ignore 631
