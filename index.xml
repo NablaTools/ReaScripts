@@ -92,8 +92,8 @@
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
       <version name="0.2.0" author="Esteban Morales" time="2020-09-01T20:09:18Z">
-        <source file="../MenuSets/Nabla Looper Arranged Mode.ReaperMenu">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Toolbars/Nabla%20Looper%20Arranged%20Mode.ReaperMenu</source>
-        <source file="../MenuSets/Nabla Looper Manual Mode.ReaperMenu">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Toolbars/Nabla%20Looper%20Manual%20Mode.ReaperMenu</source>
+        <source file="../../MenuSets/Nabla Looper Arranged Mode.ReaperMenu">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Toolbars/Nabla%20Looper%20Arranged%20Mode.ReaperMenu</source>
+        <source file="../../MenuSets/Nabla Looper Manual Mode.ReaperMenu">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Toolbars/Nabla%20Looper%20Manual%20Mode.ReaperMenu</source>
       </version>
     </reapack>
   </category>
