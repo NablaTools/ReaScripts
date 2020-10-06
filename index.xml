@@ -59,7 +59,7 @@
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
-      <version name="0.2.1" author="Esteban Morales" time="2020-10-05T18:09:18Z">
+      <version name="0.2.2" author="Esteban Morales" time="2020-10-05T18:09:18Z">
         <changelog><![CDATA[Added Moitoring Items script]]></changelog>
         <source main="main" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
         <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
@@ -79,7 +79,7 @@
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
-      <version name="0.2.1" author="Esteban Morales" time="2020-10-05T18:09:18Z">
+      <version name="0.2.2" author="Esteban Morales" time="2020-10-05T18:09:18Z">
         <changelog><![CDATA[Added Moitoring Items script]]></changelog>
         <source main="true" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
         <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
