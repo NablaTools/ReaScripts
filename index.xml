@@ -8,11 +8,8 @@
       </metadata>
       <version name="0.2.4" author="Esteban Morales" time="2020-10-08T01:09:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
-          - Added 4 point envelope create/delete
           - Added Toggle Record Items (No Monitoring)]]></changelog>
         <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
-        <source main="main" file="Nabla Looper Arranged 4 Point Envelope (Create).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Create).lua</source>
-        <source main="main" file="Nabla Looper Arranged 4 Point Envelope (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Delete).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Toggle Record).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).lua</source>
@@ -21,8 +18,6 @@
         <source main="main" file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
         <source main="main" file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Delete).lua</source>
         <source main="main" file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Show).lua</source>
-        <source file="Nabla Looper Arranged 4 Point Envelope (Create).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Create).dat</source>
-        <source file="Nabla Looper Arranged 4 Point Envelope (Delete).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Delete).dat</source>
         <source file="Nabla Looper Arranged Items (Clear).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Items%20(Clear).dat</source>
         <source file="Nabla Looper Arranged Items (Rename).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Items%20(Rename).dat</source>
         <source file="Nabla Looper Arranged Items (Toggle Record).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).dat</source>
@@ -44,11 +39,8 @@
       </metadata>
       <version name="0.2.4" author="Esteban Morales" time="2020-10-08T01:09:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
-          - Added 4 point envelope create/delete
           - Added Toggle Record Items (No Monitoring)]]></changelog>
         <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
-        <source main="main" file="Nabla Looper Arranged 4 Point Envelope (Create).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Create).lua</source>
-        <source main="main" file="Nabla Looper Arranged 4 Point Envelope (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Delete).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Toggle Record).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).lua</source>
@@ -57,8 +49,6 @@
         <source main="main" file="Nabla Looper Arranged Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Settings.lua</source>
         <source main="main" file="Nabla Looper Arranged Takes (Delete).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Delete).lua</source>
         <source main="main" file="Nabla Looper Arranged Takes (Show).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Takes%20(Show).lua</source>
-        <source file="Nabla Looper Arranged 4 Point Envelope (Create).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Create).dat</source>
-        <source file="Nabla Looper Arranged 4 Point Envelope (Delete).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%204%20Point%20Envelope%20(Delete).dat</source>
         <source file="Nabla Looper Arranged Items (Clear).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Items%20(Clear).dat</source>
         <source file="Nabla Looper Arranged Items (Rename).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Items%20(Rename).dat</source>
         <source file="Nabla Looper Arranged Items (Toggle Record).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Items%20(Toggle%20Record).dat</source>
