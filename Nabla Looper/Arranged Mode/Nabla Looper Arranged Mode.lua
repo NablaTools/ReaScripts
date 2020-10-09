@@ -41,4 +41,4 @@ end
 
 saved, dir, sep = IsProjectSaved()
 
-if saved = true then dofile(script_path .. "Nabla Looper Arranged Mode.dat") end
+if saved == true then dofile(script_path .. "Nabla Looper Arranged Mode.dat") end
