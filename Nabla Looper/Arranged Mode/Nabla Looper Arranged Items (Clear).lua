@@ -1,7 +1,7 @@
 --====================================================================== 
 --[[ 
 * ReaScript Name: Nabla Looper Arranged Items (Clear)
-* Version: 0.2.0
+* Version: 0.2.5
 * Author: Esteban Morales
 * Author URI: http://forum.cockos.com/member.php?u=133640 
 --]] 
