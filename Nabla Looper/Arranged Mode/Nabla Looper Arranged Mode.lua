@@ -32,6 +32,7 @@ function IsProjectSaved()
     if display == 1 then
 
       reaper.Main_OnCommand(40022, 0) -- SAVE AS PROJECT
+      
       return IsProjectSaved()
 
     end
