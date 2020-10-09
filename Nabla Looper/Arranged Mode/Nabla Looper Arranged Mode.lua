@@ -11,6 +11,7 @@ script_path  = info.source:match[[^@?(.*[\/])[^\/]-$]]
 ------------------------------------------------------------------
 -- IS PROJECT SAVED
 ------------------------------------------------------------------
+
 function IsProjectSaved()
   if reaper.GetOS() == "Win32" or reaper.GetOS() == "Win64" then separator = "\\" else separator = "/" end
 
