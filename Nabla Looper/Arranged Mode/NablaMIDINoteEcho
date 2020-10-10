@@ -1,0 +1,76 @@
+version: 1.0
+desc:MIDI Note Echo
+noindex:   true
+author:    Malcolm Smith
+           Copyright(C) 2018 and later, Malcolm Smith (username 'Time Waster' on REAPER forums).
+           License: LGPL - http://www.gnu.org/licenses/lgpl.html
+changelog: Version 1.00  (28/01/2019) Initial release.
+
+about: Echos MIDI notes. Includes optional velocity decay.
+
+slider1:sdelay=0<0,40000,1>Delay time (ms)
+slider2:repeat=0<0,64,1>Number of repeats
+slider3:vel_dec=0<0,1,0.001>Velocity decay
+
+in_pin: none
+out_pin: none
+
+@init
+buf_len = 2000000;
+
+@slider
+delay = floor((srate*(sdelay/1000))+0.5);
+
+@block
+//buf_len = max(samplesblock,ceil(delay*(repeat+1)));
+buf_inc += samplesblock;
+buf_inc > buf_len ? buf_inc -= buf_len;
+offset_out = 0;
+while (midirecv(offset, msg1, msg2, msg3))
+(  
+  buf_pos = buf_inc + offset;
+  buf_pos > buf_len ? buf_pos -= buf_len;
+  rep_pos = buf_pos+delay;
+  // Extract message type
+  status = msg1 & $xF0;
+
+  // Is it a note on event?
+  status == $x90 ?
+  (
+  vel = msg3;
+  vel_decay = floor((vel_dec/1)*vel);
+  rep_num = 1;
+  // Buffer note-on and velocity values
+  loop(repeat,
+    rep_pos > buf_len ? rep_pos -= buf_len ;
+    rep_pos[0] = msg2+1;
+    rep_pos[buf_len] = vel-(vel_decay*(rep_num/repeat));
+    rep_pos += delay;
+    rep_num += 1;
+    );
+  );
+  // Is it a note off event?
+  status == $x80 ?
+  (
+  // Buffer note-off values
+  loop(repeat,
+    rep_pos > buf_len ? rep_pos -= buf_len ;
+    rep_pos[buf_len*2] = msg2+1;
+    rep_pos += delay;
+    );
+  );
+  
+  //Pass through
+  midisend(offset, msg1, msg2, msg3);
+);
+
+@sample
+
+count_out > buf_len ? count_out -= buf_len;
+count_out[0] > 0 ? midisend(offset_out, $x90, count_out[0]-1, count_out[buf_len]);
+count_out[0] = count_out[buf_len] = 0;
+count_out[buf_len*2] > 0 ? midisend(offset_out, $x80, count_out[buf_len*2]-1,0);
+count_out[buf_len*2] = 0;
+count_out += 1; 
+offset_out += 1;
+
