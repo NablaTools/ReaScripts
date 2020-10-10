@@ -6,11 +6,12 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.6" author="Esteban Morales" time="2020-10-09T17:40:18Z">
+      <version name="0.2.7" author="Esteban Morales" time="2020-10-09T17:40:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
           - Added Toggle Record Items (No Monitoring)
           - Improved MIDI take system
-          - Added Delete Take no prompting]]></changelog>
+          - Added Delete Take no prompting
+          - Added Practice Mode]]></changelog>
         <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
@@ -41,11 +42,12 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.6" author="Esteban Morales" time="2020-10-09T17:40:18Z">
+      <version name="0.2.7" author="Esteban Morales" time="2020-10-09T17:40:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
           - Added Toggle Record Items (No Monitoring)
           - Improved MIDI take system
-          - Added Delete Take no prompting]]></changelog>
+          - Added Delete Take no prompting
+          - Added Practice Mode]]></changelog>
         <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
