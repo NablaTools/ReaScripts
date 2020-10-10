@@ -33,6 +33,7 @@
         <source file="Nabla Looper Arranged Takes (Delete no prompting).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Takes%20(Delete%20no%20prompting).dat</source>
         <source file="Nabla Looper Arranged Takes (Show).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Takes%20(Show).dat</source>
         <source file="clean_audio.wav">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/clean_audio.wav</source>
+        <source type="effect" file="midi/NablaMIDINoteEcho">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NablaMIDINoteEcho</source>
       </version>
     </reapack>    
   </category>
@@ -69,6 +70,7 @@
         <source file="Nabla Looper Arranged Takes (Delete no prompting).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Takes%20(Delete%20no%20prompting).dat</source>
         <source file="Nabla Looper Arranged Takes (Show).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Takes%20(Show).dat</source>
         <source file="clean_audio.wav">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/clean_audio.wav</source>
+        <source type="effect" file="midi/NablaMIDINoteEcho">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NablaMIDINoteEcho</source>
       </version>
     </reapack>    
   </category>
