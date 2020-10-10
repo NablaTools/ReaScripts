@@ -13,11 +13,11 @@
 presets = { 
 
 	{ 'Loop' ,      10 }, 
-	-- { 'Name' ,      10 }, 
-	-- { 'Name' ,      10 }, 
-	-- { 'Name' ,      10 },
-	-- { 'Name' ,      10 }, 
-	-- { 'Name' ,      10 }, 
+	{ 'Guitar' ,      10 }, 
+	{ 'Bass' ,      10 }, 
+	{ 'Key' ,      10 },
+	{ 'Synth' ,      10 }, 
+	{ 'Monitor' ,      10 }, 
 	-- { 'Name' ,      10 },
 	
 }
