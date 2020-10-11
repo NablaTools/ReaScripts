@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Nabla Tools" commit="71161a6b9b4f733b7ccfa4b1f0e2d747494614df">
+<index version="1" name="Nabla Tools" commit="1bdf89f1fcbb59ca2722fe95e7d78d216bb295af">
   <category name="Nabla Looper/Arranged Mode">
     <reapack name="Nabla Looper Arranged Mode x64.lua" type="script">
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.8" author="Esteban Morales" time="2020-10-09T17:40:18Z">
+      <version name="0.2.9" author="Esteban Morales" time="2020-10-11T12:40:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
           - Added Toggle Record Items (No Monitoring)
           - Improved MIDI take system
@@ -50,7 +50,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.8" author="Esteban Morales" time="2020-10-09T17:40:18Z">
+      <version name="0.2.9" author="Esteban Morales" time="2020-10-11T12:40:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
           - Added Toggle Record Items (No Monitoring)
           - Improved MIDI take system
