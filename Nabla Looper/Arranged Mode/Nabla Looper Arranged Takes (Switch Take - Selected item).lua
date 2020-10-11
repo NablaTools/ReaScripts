@@ -8,4 +8,4 @@
 --====================================================================== 
 local info   = debug.getinfo(1,'S');
 script_path  = info.source:match[[^@?(.*[\/])[^\/]-$]]
-dofile(script_path .. "Nabla Looper Arranged Takes (Show).dat")
+dofile(script_path .. "Nabla Looper Arranged Takes (Switch Take - Selected item).dat")

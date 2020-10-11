@@ -8,5 +8,5 @@
 --====================================================================== 
 local info   = debug.getinfo(1,'S');
 script_path  = info.source:match[[^@?(.*[\/])[^\/]-$]]
-dofile(script_path .. "Nabla Looper Arranged Takes (Delete).dat")
+dofile(script_path .. "Nabla Looper Arranged Takes (Delete Take no prompting - Item under mouse).dat")
 
