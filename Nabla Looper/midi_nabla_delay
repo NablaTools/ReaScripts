@@ -1,7 +1,8 @@
 desc:Nabla MIDI Delay
 
 slider1:0<0,40000,1>Delay (ms)
-slider2:wet=1<0,1,1>Wet
+slider2:wet=0<0,1,1>Wet
+slider3:dry=1<0,1,1>Dry
 
 in_pin:none
 out_pin:none
@@ -41,7 +42,7 @@ while (rdd<buf_r)
   rdd==buf_m && (offs=floor(0*delay_sc+0.5)) < samplesblock ? (
     midi_bus=rdd[2];
     m = rdd[1];
-    wet == 1 ? (
+    dry == 1 ? (
       midisend_buf(max(offs,0),rdd+buf_hdr,m-buf_hdr);
     );
     buf_m = (rdd += m);
@@ -59,8 +60,10 @@ while (rd<buf_r)
   rd==buf_l && (offs=floor(rd[0]*delay_sc+0.5)) < samplesblock ? (
     midi_bus=rd[2];
     l = rd[1];
+    wet == 1 ? (
       midisend_buf(max(offs,0),rd+buf_hdr,l-buf_hdr);
-      buf_l = (rd += l);
+    );
+    buf_l = (rd += l);
   ) : (
     rd[0] -= samplesblock * delay_isc;
     rd += rd[1];
