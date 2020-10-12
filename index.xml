@@ -41,7 +41,7 @@
         <source file="Nabla Looper Arranged Takes (Switch Take - Item under mouse).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Takes%20(Switch%20Take%20-%20Item%20under%20mouse).dat</source>
         <source file="Nabla Looper Arranged Takes (Switch Take - Selected item).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx64/Nabla%20Looper%20Arranged%20Takes%20(Switch%20Take%20-%20Selected%20item).dat</source>
         <source file="clean_audio.wav">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/clean_audio.wav</source>
-        <source type="effect" file="../../midi_nabla_delay">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NablaMIDINoteEcho</source>
+        <source type="effect" file="../../midi_nabla_delay">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/midi_nabla_delay</source>
       </version>
     </reapack>    
   </category>
@@ -86,7 +86,7 @@
         <source file="Nabla Looper Arranged Takes (Switch Take - Item under mouse).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Takes%20(Switch%20Take%20-%20Item%20under%20mouse).dat</source>
         <source file="Nabla Looper Arranged Takes (Switch Take - Selected item).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NLAx32/Nabla%20Looper%20Arranged%20Takes%20(Switch%20Take%20-%20Selected%20item).dat</source>
         <source file="clean_audio.wav">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/clean_audio.wav</source>
-        <source type="effect" file="../../midi_nabla_delay">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/NablaMIDINoteEcho</source>
+        <source type="effect" file="../../midi_nabla_delay">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/midi_nabla_delay</source>
       </version>
     </reapack>    
   </category>
