@@ -1,7 +1,7 @@
 --====================================================================== 
 --[[ 
 * ReaScript Name: Nabla Looper Arranged Items (Rename)
-* Version: 0.2.5
+* Version: 0.2.9
 * Author: Esteban Morales
 * Author URI: http://forum.cockos.com/member.php?u=133640
 --]] 
@@ -13,11 +13,13 @@
 presets = { 
 
 	{ 'Loop' ,      10 }, 
-	{ 'Guitar' ,      10 }, 
-	{ 'Bass' ,      10 }, 
-	{ 'Key' ,      10 },
-	{ 'Synth' ,      10 }, 
-	{ 'Monitor' ,      10 }, 
+	-- { 'Name' ,      10 },
+	-- { 'Name' ,      10 },
+	-- { 'Name' ,      10 },
+	-- { 'Name' ,      10 },
+	-- { 'Name' ,      10 },
+	-- { 'Name' ,      10 },
+	-- { 'Name' ,      10 },
 	-- { 'Name' ,      10 },
 	
 }

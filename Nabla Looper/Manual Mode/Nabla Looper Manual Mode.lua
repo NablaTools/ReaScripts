@@ -1,7 +1,7 @@
 --====================================================================== 
 --[[ 
 * ReaScript Name: Nabla Looper Manual Mode
-* Version: 0.2.2
+* Version: 0.2.3
 * Author: Esteban Morales
 * Author URI: http://forum.cockos.com/member.php?u=133640 
 --]] 

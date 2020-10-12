@@ -1,7 +1,7 @@
 --====================================================================== 
 --[[ 
 * ReaScript Name: Nabla Looper Manual Trigger Actions
-* Version: 0.2.2
+* Version: 0.2.3
 * Author: Esteban Morales
 * Author URI: https://forum.cockos.com/member.php?u=133640
 --]] 

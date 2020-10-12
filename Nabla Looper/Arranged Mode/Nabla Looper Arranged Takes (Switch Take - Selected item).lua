@@ -1,6 +1,6 @@
 --====================================================================== 
 --[[ 
-* ReaScript Name: Nabla Looper Arranged Takes (Show)
+* ReaScript Name: Nabla Looper Arranged Takes (Switch Take - Selected item)
 * Version: 0.2.5
 * Author: Esteban Morales
 * Author URI: http://forum.cockos.com/member.php?u=133640 

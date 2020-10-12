@@ -1,7 +1,7 @@
 --====================================================================== 
 --[[ 
-* ReaScript Name: Nabla Looper Arranged Takes (Delete)
-* Version: 0.2.5
+* ReaScript Name: Nabla Looper Arranged Takes (Delete Take - Item under mouse)
+* Version: 0.2.9
 * Author: Esteban Morales
 * Author URI: http://forum.cockos.com/member.php?u=133640 
 --]] 

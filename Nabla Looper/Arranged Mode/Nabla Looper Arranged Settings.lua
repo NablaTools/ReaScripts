@@ -1,7 +1,7 @@
 --====================================================================== 
 --[[ 
 * ReaScript Name: Nabla Looper Arranged Settings
-* Version: 0.2.5
+* Version: 0.2.9
 * Author: Esteban Morales
 * Author URI: http://forum.cockos.com/member.php?u=133640
 --]] 
