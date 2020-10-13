@@ -51,7 +51,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.10" author="Esteban Morales" time="2020-10-12T12:40:18Z">
+      <version name="0.2.10" author="Esteban Morales" time="2020-10-14T12:40:18Z">
         <changelog><![CDATA[- Added Monitoring Items script
           - Added Toggle Record Items (No Monitoring)
           - Improved MIDI take system
