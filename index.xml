@@ -6,14 +6,20 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.10" author="Esteban Morales" time="2020-10-14T09:40:18Z">
-        <changelog><![CDATA[- Added Monitoring Items script
-          - Added Toggle Record Items (No Monitoring)
-          - Improved MIDI take system
-          - Added Delete Take no prompting
-          - Added Practice Mode
-          - Fixed MIDI Delay Buffer
-          - Added Edit Presets Name]]></changelog>
+      <version name="0.2.11" author="Esteban Morales" time="2020-10-14T09:40:18Z">
+        <changelog><![CDATA[Added: 
+          - Monitoring Items script
+          - Toggle Record Items (No Monitoring)
+          - Delete Take no prompting
+          - Practice Mode
+          - Edit Presets Name
+          Fixed:
+          - MIDI Delay Buffer
+          Improved:
+          - Propagate Loop Items
+          - MIDI take system
+          Changed:
+          - Now track free mode is not necessary]]></changelog>
         <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
@@ -49,14 +55,20 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.10" author="Esteban Morales" time="2020-10-14T12:40:18Z">
-        <changelog><![CDATA[- Added Monitoring Items script
-          - Added Toggle Record Items (No Monitoring)
-          - Improved MIDI take system
-          - Added Delete Take no prompting
-          - Added Practice Mode
-          - Fixed MIDI Delay Buffer
-          - Added Edit Presets Name]]></changelog>
+      <version name="0.2.11" author="Esteban Morales" time="2020-10-14T12:40:18Z">
+        <changelog><![CDATA[Added: 
+          - Monitoring Items script
+          - Toggle Record Items (No Monitoring)
+          - Delete Take no prompting
+          - Practice Mode
+          - Edit Presets Name
+          Fixed:
+          - MIDI Delay Buffer
+          Improved:
+          - Propagate Loop Items
+          - MIDI take system
+          Changed:
+          - Now track free mode is not necessary]]></changelog>
         <source main="main" file="Nabla Looper Arranged Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Mode.lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Clear).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Clear).lua</source>
         <source main="main" file="Nabla Looper Arranged Items (Rename).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Arranged%20Mode/Nabla%20Looper%20Arranged%20Items%20(Rename).lua</source>
