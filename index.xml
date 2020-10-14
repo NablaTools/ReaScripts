@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Nabla Tools" commit="fc92e0a5ca20d172631b02b974205868cc5ae827">
+<index version="1" name="Nabla Tools" commit="b358ef2f7a01be0e669a6b655d14b929551aa444">
   <category name="Nabla Looper/Arranged Mode">
     <reapack name="Nabla Looper Arranged Mode x32.lua" type="script">
       <metadata>
