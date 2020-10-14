@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="Nabla Tools" commit="86d8ab86e66650a6827d4ff5291b263a65888c46">
   <category name="Nabla Looper/Arranged Mode">
-    <reapack name="Nabla Looper Arranged Mode x64.lua" type="script">
+    <reapack name="Nabla Looper Arranged Mode x64" type="script">
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
@@ -46,7 +46,7 @@
     </reapack>    
   </category>
   <category name="Nabla Looper/Arranged Mode">
-    <reapack name="Nabla Looper Arranged Mode x32.lua" type="script">
+    <reapack name="Nabla Looper Arranged Mode x32" type="script">
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
