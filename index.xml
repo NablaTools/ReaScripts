@@ -89,26 +89,6 @@
     </reapack>    
   </category>
   <category name="Nabla Looper/Manual Mode">
-    <reapack name="Nabla Looper Manual Mode x64.lua" type="script">
-      <metadata>
-        <link rel="website">https://www.nablatools.com</link>
-      </metadata>
-      <version name="0.2.3" author="Esteban Morales" time="2020-10-08T01:09:18Z">
-        <changelog><![CDATA[- Added console output]]></changelog>
-        <source main="main" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
-        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
-        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).lua</source>
-        <source main="main" file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
-        <source main="main" file="Nabla Looper Manual Trigger Actions.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Trigger%20Actions.lua</source>
-        <source file="Nabla Looper Manual Keyboard Shortcut (Action List).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).dat</source>
-        <source file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).dat</source>
-        <source file="Nabla Looper Manual Mode.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Mode.dat</source>
-        <source file="Nabla Looper Manual Settings.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Settings.dat</source>
-        <source file="Nabla Looper Manual Trigger Actions.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Trigger%20Actions.dat</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="Nabla Looper/Manual Mode">
     <reapack name="Nabla Looper Manual Mode x32.lua" type="script">
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
@@ -125,6 +105,24 @@
         <source file="Nabla Looper Manual Mode.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx32/Nabla%20Looper%20Manual%20Mode.dat</source>
         <source file="Nabla Looper Manual Settings.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx32/Nabla%20Looper%20Manual%20Settings.dat</source>
         <source file="Nabla Looper Manual Trigger Actions.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx32/Nabla%20Looper%20Manual%20Trigger%20Actions.dat</source>
+      </version>
+    </reapack>
+    <reapack name="Nabla Looper Manual Mode x64.lua" type="script">
+      <metadata>
+        <link rel="website">https://www.nablatools.com</link>
+      </metadata>
+      <version name="0.2.3" author="Esteban Morales" time="2020-10-08T01:09:18Z">
+        <changelog><![CDATA[- Added console output]]></changelog>
+        <source main="main" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
+        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
+        <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).lua</source>
+        <source main="main" file="Nabla Looper Manual Settings.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Settings.lua</source>
+        <source main="main" file="Nabla Looper Manual Trigger Actions.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Trigger%20Actions.lua</source>
+        <source file="Nabla Looper Manual Keyboard Shortcut (Action List).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).dat</source>
+        <source file="Nabla Looper Manual Keyboard Shortcut (Nabla Looper).dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Nabla%20Looper).dat</source>
+        <source file="Nabla Looper Manual Mode.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Mode.dat</source>
+        <source file="Nabla Looper Manual Settings.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Settings.dat</source>
+        <source file="Nabla Looper Manual Trigger Actions.dat">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/NLMx64/Nabla%20Looper%20Manual%20Trigger%20Actions.dat</source>
       </version>
     </reapack>
   </category>
