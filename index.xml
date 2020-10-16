@@ -6,7 +6,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.11" author="Esteban Morales" time="2020-10-14T09:40:18Z">
+      <version name="0.2.12" author="Esteban Morales" time="2020-10-14T09:40:18Z">
         <changelog><![CDATA[Added: 
           - Monitoring Items script
           - Toggle Record Items (No Monitoring)
@@ -15,7 +15,9 @@
           - Edit Presets Name
           Fixed:
           - MIDI Delay Buffer
+          - Monitor Item not turn on.
           Improved:
+          - More descriptive undo points history
           - Propagate Loop Items
           - MIDI take system
           Changed:
@@ -55,7 +57,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.11" author="Esteban Morales" time="2020-10-14T12:40:18Z">
+      <version name="0.2.12" author="Esteban Morales" time="2020-10-14T12:40:18Z">
         <changelog><![CDATA[Added: 
           - Monitoring Items script
           - Toggle Record Items (No Monitoring)
@@ -64,7 +66,9 @@
           - Edit Presets Name
           Fixed:
           - MIDI Delay Buffer
+          - Monitor Item not turn on.
           Improved:
+          - More descriptive undo points history
           - Propagate Loop Items
           - MIDI take system
           Changed:
