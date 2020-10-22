@@ -6,7 +6,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.13" author="Esteban Morales" time="2020-10-14T09:40:18Z">
+      <version name="0.2.13" author="Esteban Morales" time="2020-10-22T09:40:18Z">
         <changelog><![CDATA[Added: 
           - Monitoring Items script
           - Toggle Record Items (No Monitoring)
@@ -60,7 +60,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.13" author="Esteban Morales" time="2020-10-14T12:40:18Z">
+      <version name="0.2.13" author="Esteban Morales" time="2020-10-22T12:40:18Z">
         <changelog><![CDATA[Added: 
           - Monitoring Items script
           - Toggle Record Items (No Monitoring)
@@ -115,7 +115,7 @@
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
-      <version name="0.2.4" author="Esteban Morales" time="2020-10-08T01:09:18Z">
+      <version name="0.2.4" author="Esteban Morales" time="2020-10-22T01:09:18Z">
         <changelog><![CDATA[- Added console output]]></changelog>
         <source main="true" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
         <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
@@ -133,7 +133,7 @@
       <metadata>
         <link rel="website">https://www.nablatools.com</link>
       </metadata>
-      <version name="0.2.4" author="Esteban Morales" time="2020-10-08T01:09:18Z">
+      <version name="0.2.4" author="Esteban Morales" time="2020-10-22T01:09:18Z">
         <changelog><![CDATA[- Added console output]]></changelog>
         <source main="main" file="Nabla Looper Manual Mode.lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Mode.lua</source>
         <source main="main" file="Nabla Looper Manual Keyboard Shortcut (Action List).lua">https://github.com/NablaTools/ReaScripts/raw/master/Nabla%20Looper/Manual%20Mode/Nabla%20Looper%20Manual%20Keyboard%20Shortcut%20(Action%20List).lua</source>
