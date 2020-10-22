@@ -12,6 +12,6 @@ console = 0
 ------------------------------------------------------------------
 local info   = debug.getinfo(1,'S');
 script_path  = info.source:match[[^@?(.*[\/])[^\/]-$]]
-dofile(script_path .. "Nabla Looper Manual Take (Start_Stop Recording.dat")
+dofile(script_path .. "Nabla Looper Manual Take (Start_Stop Recording).dat")
 
 
