@@ -6,7 +6,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.13" author="Esteban Morales" time="2020-10-22T09:40:18Z">
+      <version name="0.2.14" author="Esteban Morales" time="2020-10-26T12:40:18Z">
         <changelog><![CDATA[Added: 
           - Monitoring Items script
           - Toggle Record Items (No Monitoring)
@@ -14,9 +14,10 @@
           - Practice Mode
           - Edit Presets Name
           Fixed:
-          - Ignore Items
+          - Ignore Empty Items 
           - MIDI Delay Buffer
-          - Monitor Item not turn on.
+          - Monitor Item not turn on
+          - Remove ReaDelay on practice mode
           Improved:
           - More descriptive undo points history
           - Propagate Loop Items
@@ -60,7 +61,7 @@
         <link rel="website">https://www.nablatools.com</link>
         <link rel="donation">https://paypal.me/estebanmoralesaudio</link>
       </metadata>
-      <version name="0.2.13" author="Esteban Morales" time="2020-10-22T12:40:18Z">
+      <version name="0.2.14" author="Esteban Morales" time="2020-10-26T12:40:18Z">
         <changelog><![CDATA[Added: 
           - Monitoring Items script
           - Toggle Record Items (No Monitoring)
@@ -71,6 +72,7 @@
           - Ignore Empty Items 
           - MIDI Delay Buffer
           - Monitor Item not turn on
+          - Remove ReaDelay on practice mode
           Improved:
           - More descriptive undo points history
           - Propagate Loop Items
